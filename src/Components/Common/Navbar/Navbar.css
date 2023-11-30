@@ -1,0 +1,231 @@
+.tech-nav-top-bar {
+  width: 100%;
+  background: #364163;
+  height: 176px;
+  padding-top: 51px;
+}
+
+.tech-nav-top-bar a {
+  float: right;
+}
+
+.circle-box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  width: 37px;
+  height: 37px;
+  border-radius: 50%;
+}
+
+.tech-nav-top-bar a svg {
+  width: 25.6px;
+  height: 25.6px;
+  color: #ffffff;
+  font-size: 23px;
+  margin-right: 50px;
+  cursor: pointer;
+}
+.tech-nav-top-bar a img {
+  width: 25.6px;
+  height: 25.6px;
+  margin-right: 50px;
+}
+
+.tech-nav-top-bar a:nth-child(1) svg {
+  margin-right: 0;
+  margin-left: 0;
+}
+
+.bg-body-tertiary {
+  height: 80px;
+  border-radius: 40px;
+  background: #fff;
+  box-shadow: 0px 4px 34px 0px rgba(0, 0, 0, 0.15);
+  margin-top: -38px;
+  padding: 14px 11px !important;
+}
+
+.navbar-brand {
+  width: 51px;
+  height: 51px;
+  border-radius: 50%;
+  background: #364163;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navbar-brand i {
+  color: #ffffff;
+  width: 23px;
+  height: 21px;
+  font-size: 26px;
+  text-align: center;
+}
+
+.nav-item a {
+  color: #364163;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  letter-spacing: 0.16px;
+  text-decoration: none;
+  margin: 0 16px;
+}
+.nav-item a:hover {
+  color: black;
+}
+.active {
+  color: #508a95 !important;
+}
+nav .btn-outline-success {
+  width: 180px;
+  background: #364163;
+  border-radius: 26px;
+  height: 52px;
+  border: none;
+  color: #ffffff;
+  font-weight: bold;
+  font-size: 15.349px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 35px;
+  letter-spacing: 0.153px;
+  padding-left: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+.custom-toggler .navbar-toggler-icon {
+  background-color: #364163;
+  transition: background-color 0.3s ease !important;
+}
+
+.custom-toggler .navbar-toggler-icon:focus {
+  background-color: #495057; /* Change to your desired click color */
+}
+
+#navbarScroll .btn-outline-success svg {
+  font-size: 14px;
+  color: #364163;
+}
+
+@media screen and (max-width: 480px) {
+  div#navbarScroll {
+    background: #364163;
+    margin-top: 15px;
+    padding: 20px 30px;
+    border-radius: 14px;
+    color: white;
+  }
+  .circle-box {
+    width: 30px;
+    height: 30px;
+    margin-top: 0.2rem;
+  }
+  @media screen and (max-width: 367px) {
+    div#navbarScroll {
+      background: #364163;
+      margin-top: 15px;
+      padding: 20px 30px;
+      border-radius: 14px;
+      color: white;
+      width: 50%;
+    }
+    .circle-box {
+      width: 30px;
+      height: 30px;
+      margin-top: 0.2rem;
+    }
+    .Option-list {
+      width: 62% !important;
+      /* background-color: red !important; */
+    }
+  }
+  .nav-item {
+    border-bottom: 1px solid grey;
+    padding: 5px 10px;
+  }
+  .tech-nav-top-bar a svg {
+    width: 20.6px;
+    height: 31.6px;
+    margin-right: 20px;
+  }
+  .tech-nav-top-bar a img {
+    width: 20.6px;
+    height: 31.6px;
+    margin-right: 20px;
+  }
+  form.d-flex {
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 15px;
+}
+  .tech-nav-top-bar {
+    height: 110px;
+    padding-top: 23px;
+  }
+  .bg-body-tertiary {
+    height: 55px;
+    border-radius: 30px;
+    margin-top: -28px;
+    padding: 8px 9px !important;
+  }
+  .navbar-brand {
+    width: 40px;
+    height: 40px;
+  }
+}
+.small-flag{
+  height: 15px;
+  width: 25px;
+}
+.hidden {
+  margin-top: 0.5rem;
+}
+@media only screen and (max-width: 426px) {
+  .hidden {
+    font-size: 15px !important;
+    margin-top: -0.5px;
+  }
+}
+@media only screen and (max-width: 404px){
+.circle-box{
+  height: 25px;
+}
+}
+@media screen and (min-width: 481px) and (max-width: 767px) {
+  div#navbarScroll {
+    background: #364163;
+    margin-top: 15px;
+    padding: 20px 30px;
+    border-radius: 14px;
+    color: white;
+  }
+  .nav-item {
+    border-bottom: 1px solid grey;
+    padding: 5px 10px;
+  }
+}
+
+@media screen and (min-width: 1024px) {
+}
+.Option-list {
+  border: none;
+  outline: none;
+  color: #364163;
+  margin-right: 1rem;
+  border-radius: 5px;
+  background: rgba(217, 217, 217, 0.5);
+  width: 150px;
+  height: 40px;
+  margin-top: 0.5rem;
+  text-transform: uppercase;
+}
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+  .nav-item a {
+    margin: 0 0.3rem;
+  }
+}

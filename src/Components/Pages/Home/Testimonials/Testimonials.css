@@ -1,0 +1,98 @@
+.testimonial {
+    padding: 129px 0 145px;
+}
+
+.testimonial-title button {
+    width: 223.182px;
+    height: 54.657px;
+    border-radius: 56.934px;
+    background: #364163;
+    color: #FFF;
+    border: none;
+    font-size: 24.81px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33.832px;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.testimonial-title h2 {
+    color: #364163;
+    font-family: Nelphim;
+    width: 70%;
+    font-size: 47.577px;
+    margin: 32px 0 36px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 62.681px;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+}
+
+.col-12.col-md-6.col-lg-6.down-space {
+    margin-top: -143px;
+
+}
+
+.testimonial-cards {
+    border-radius: 11.387px;
+    background: #FFF;
+    box-shadow: 0px 4.55474px 38.71532px 0px rgba(0, 0, 0, 0.05);
+    padding: 45px 45px 66px;
+    margin-bottom: 35px;
+    max-width: 605px;
+
+}
+
+.testimonial-cards p {
+    color: #514F6E;
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    padding: 20px 0 0px;
+    font-weight: 400;
+    line-height: 30.689px;
+}
+.nth-4 img{
+width: 70%;
+}
+.nth-5 img {
+width: 45%;
+}
+.last-card .testimonial-cards {
+    padding: 39px 46px;
+}
+
+.testimonial-client-info img {
+    width: 65.469px;
+    height: 65.469px;
+    border-radius: 50%;
+}
+
+.logo-w-2nd {
+    width: 193.338px;
+    height: 37.849px;
+}
+
+.testimonial-client-info p {
+    color: var(--neutral-600, #6F6C90);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Montserrat;
+    font-size: 18.413px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 20.459px;
+    margin: 0;
+    padding: 0;
+}
+
+.testimonial-client-info h4 {
+    color: var(--neutral-800, #170F49);
+    font-feature-settings: 'clig' off, 'liga' off;
+    font-family: Montserrat;
+    font-size: 18.413px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 20.459px;
+}

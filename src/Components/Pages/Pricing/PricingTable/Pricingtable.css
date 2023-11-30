@@ -1,0 +1,84 @@
+.bg-img-pricing {
+  background-image: url(../../../../../public/Assets/img/pricingback.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100%;
+  width: 100%;
+}
+
+.red {
+  color: #888a8e !important;
+  transition: 0.5s ease-in;
+}
+
+.tech-about-seo-packages {
+  margin-bottom: 207px;
+}
+
+.black {
+  color: #191d23 !important;
+}
+
+.up-toSpace {
+  margin-bottom: 120px;
+}
+
+.pri-btn {
+  height: 56.08px;
+  border-radius: 46.081px;
+  background: #ffffff;
+  width: 100%;
+  border: 3px solid #508a95 !important;
+  color: #508a95 !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 41px;
+  cursor: pointer;
+  font-family: Montserrat !important;
+  font-size: 20px !important;
+  font-weight: 700 !important;
+  line-height: 24px !important;
+  letter-spacing: 0px;
+  text-align: center;
+}
+
+.color-gr {
+  color: #508a95 !important;
+}
+
+.bg-greeen {
+  background: #dfe6df !important;
+  transition: 0.5 ease-in;
+}
+
+.bg-light-green {
+  background-color: #f7f8f9 !important;
+  transition: 0.5 ease-in;
+}
+
+.tech-about-seo-packages .pricing-table-card:hover .bg-light-green {
+  background-color: #4f5976 !important;
+}
+
+.tech-about-seo-packages .pricing-table-card:hover .bg-light-green svg {
+  color: white !important;
+}
+
+.tech-about-seo-packages .pricing-table-card:hover .pricing-list-text .red {
+  color: #888a8e !important;
+}
+
+.tech-about-seo-packages .pricing-table-card:hover .pri-btn {
+  border: none !important;
+}
+
+.tech-about-seo-packages .pricing-table-card:hover .bg-green {
+  background: white !important;
+}
+
+@media only screen and (max-width: 1004px) {
+  .bg-img-pricing {
+    background: transparent;
+  }
+}

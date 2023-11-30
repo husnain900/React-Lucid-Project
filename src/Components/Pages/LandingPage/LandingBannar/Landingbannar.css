@@ -1,0 +1,115 @@
+.landing-bg-img {
+  background-image: url(../../../../../public/Assets/img/banner-bg-1-11.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+
+.tech-about-banner {
+  padding: 100px 0 78px 0;
+}
+/* .banner-image {
+  width: 10% !important;
+} */
+
+.tech-about-banner .col-lg-5 {
+  padding-left: 90px;
+}
+
+.tech-about-banner h1 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 76.711px;
+  letter-spacing: -0.45px;
+  font-family: "Poppins", sans-serif;
+  margin-bottom: 35px;
+}
+
+.tech-about-banner h1 span {
+  color: #364163;
+  font-family: Poppins;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 76.711px;
+  letter-spacing: -0.45px;
+}
+
+.tech-about-banner p {
+  color: #000;
+  font-family: Poppins;
+  opacity: 0.7;
+  font-size: 17px;
+  font-weight: 400;
+  letter-spacing: 0.51px;
+  width: 517px;
+}
+
+.tech-about-banner button {
+  width: 249.933px;
+  height: 65.619px;
+  border-radius: 32.8px;
+  background: #364163;
+  color: #fff;
+  font-family: Poppins;
+  font-size: 22.908px;
+  font-weight: 600;
+  border: none;
+  margin: 57px 0 42px 0;
+}
+.land-content {
+  width: 600px !important;
+}
+@media only screen and (max-width: 548px) {
+  .land-content {
+    width: 400px !important;
+    text-align: center !important;
+    /* margin-left: 10px; */
+  }
+
+}
+
+.tech-about-banner .col-lg-5 .col-lg-2 {
+  max-width: 65px;
+}
+
+.icons-banner a {
+  background: #d7d9e0;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  justify-content: center;
+  border-radius: 50%;
+  color: #364163;
+  font-size: 23px;
+}
+.gap-15 {
+  gap: 15px;
+}
+.tech-about-banner .col-lg-7 img {
+  width: 100%;
+  height: auto;
+}
+
+@media screen and (min-width: 991px) and (max-width: 1220px) {
+  .land-content {
+    width: 350px;
+  }
+  .tech-about-banner p {
+    color: #000;
+    font-family: Poppins;
+    opacity: 0.7;
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 0.51px;
+    width: 340px;
+  }
+  .tech-about-banner .col-lg-7 img {
+    width: 540px;
+    height: auto;
+    float: inline-end;
+  }
+}

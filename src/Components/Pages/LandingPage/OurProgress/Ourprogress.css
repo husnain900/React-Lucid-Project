@@ -1,0 +1,55 @@
+.tech-about-work-with-us {
+  margin-top: 4rem;
+}
+
+.about-work-card-img img {
+  width: 104px;
+  height: 100px;
+}
+
+.card-progres {
+  border-radius: 20px;
+  background: #ebf9ff;
+  border: none;
+  height: 221px;
+  max-width: 316px;
+  position: relative;
+}
+
+.card-progres .card-body {
+  padding: 50px 26px 0;
+}
+
+.card-progres h5 {
+  color: #000;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 28px;
+  text-align: left;
+  margin-bottom: 17px;
+}
+
+.tech-about-work-with-us .card-progres p {
+  color: #000;
+  font-family: Lato;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  text-align: left;
+}
+
+.mt-work {
+  margin-top: 100px;
+}
+
+.translate-middle {
+  transform: translate(-50%, -62%) !important;
+}
+
+
+@media screen and (min-width: 991px) and (max-width: 1370px) {
+  .card-progres {
+    height: 300px !important;
+}
+}

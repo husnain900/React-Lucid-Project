@@ -1,0 +1,155 @@
+.tech-banner {
+  width: 100%;
+  overflow: hidden;
+  padding: 90px 0 0;
+}
+
+.tech-banner-content h1 {
+  font-family: "Nelphim";
+  width: 80%;
+}
+.line1 span:last-child,
+.line2 span {
+  color: #364163 !important;
+}
+
+.tech-banner-content h1 {
+  width: 100%;
+  color: #508a95;
+  display: inline-block;
+  font-size: 70.864px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 93.36px;
+  letter-spacing: 2.835px;
+}
+
+.tech-banner-content h1 span {
+  color: #364163;
+  font-size: 70.864px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 93.36px;
+  letter-spacing: 2.835px;
+  padding-right: 12px;
+}
+
+
+.tech-banner-content p {
+  color: #64748b;
+  font-family: Montserrat;
+  font-size: 16.211px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 25.217px;
+  width: 60%;
+  margin-top: 95px;
+  margin-bottom: 24px;
+}
+
+.tech-banner-content button {
+  width: 192.732px;
+  height: 59.379px;
+  border-radius: 52.7px;
+  background: #364163;
+  color: #ffffff;
+  border: none;
+  color: #fff;
+  text-align: center;
+  font-size: 16.211px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 25.217px;
+  cursor: pointer;
+}
+
+.banner-testimonial-card {
+  max-width: 415px;
+  height: 232px;
+  border-radius: 11.387px;
+  background: #fff;
+  margin-top: 40px;
+  box-shadow: 0px 4.55474px 38.71532px 0px rgba(0, 0, 0, 0.08);
+  padding: 23px 18px;
+  margin: 37px 0 45px;
+}
+
+.banner-testimonial-card svg {
+  color: #ff9900;
+  margin-right: 7px;
+  font-size: 18px;
+}
+
+.banner-testimonial-card h3 {
+  color: #1c2026;
+  font-family: Montserrat;
+  font-size: 15.373px;
+  padding: 14px 0 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 23.914px;
+}
+
+.banner-testimonial-card p {
+  color: #64748b;
+  font-family: Montserrat;
+  font-size: 13.665px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22.206px;
+  margin: 0;
+  width: 100%;
+}
+
+.banner-testimonial-card img {
+  width: 30.346px;
+  height: 30.346px;
+  border-radius: 50%;
+}
+
+.banner-testimonial-card h4 {
+  color: #1c2026;
+  font-family: Montserrat;
+  font-size: 13.665px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 23.914px;
+}
+
+#tech-banner-bottom-text {
+  color: #364163;
+  font-family: Gistesy;
+  font-size: 62.677px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 82.575px;
+  letter-spacing: 0.627px;
+}
+
+.bannar-img img {
+  width: 100%;
+  transform: scaleX(-1);
+}
+
+@media screen and (min-width: 991px) and (max-width: 1199px) {
+  .services-cards {
+    height: auto !important;
+  }
+
+  .banner-testimonial-card {
+    height: auto !important;
+  }
+
+  .testimonial-logo img {
+    width: 60%;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1370px) {
+  .services-cards {
+    height: 355px !important;
+  }
+  .banner-testimonial-card {
+    height: auto !important;
+  }
+}

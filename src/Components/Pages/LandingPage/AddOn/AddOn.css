@@ -1,0 +1,106 @@
+.tech-about-adds-on{
+	padding: 100px 0 0 0;
+}
+.tech-about-adds-on .col-lg-8{
+	width: 900px;
+	margin: auto;
+	
+}
+.adds-on-gap{
+	gap: 100px;
+}
+.tech-about-adds-on .col-lg-8 .col-lg-6{
+	padding: 41px 25px;
+	border-radius: 20px;
+	background: var(--shades-white, #FFF);
+	box-shadow: 0px 4.18919px 55.14px 0px rgba(0, 0, 0, 0.05);
+	width: 397px;
+	margin-top: 53px;
+}
+
+.tech-about-adds-on .col-lg-8 .col-lg-6 img{
+	width: 112px;
+	margin-bottom: 42px;
+}
+
+.tech-about-adds-on .col-lg-8 .col-lg-6 h3{
+    color: var(--neutral-800, #191D23);
+    font-family: Poppins;
+    font-size: 23.041px;
+    font-weight: 700;
+    margin-bottom:0 0 11px 0;
+}
+.tech-about-adds-on .col-lg-8 .col-lg-6 p{
+    color: var(--neutral-500, #64748B);
+    font-family: Poppins;
+    font-size: 16.757px;
+    font-weight: 400;
+    margin-bottom:0 0 20px 0;
+}
+.tech-about-adds-on .col-lg-8 .col-lg-6 h1{
+    color: var(--neutral-800, #191D23);
+    font-family: Poppins;
+    font-size: 58.649px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+.tech-about-adds-on .col-lg-8 .col-lg-6 h1 span{
+    color: var(--neutral-600, #4B5768);
+    font-family: Poppins;
+    font-size: 16.757px;
+    font-weight: 600;
+}
+.tech-about-adds-on .col-lg-8 .col-lg-6 button{
+    height: 56.08px;
+    color: #364163;
+    text-align: center;
+    border-radius: 46.081px;
+    background: #ffffff;
+    font-family: Poppins;
+    font-size: 20px;
+    width: 100%;
+    font-weight: 800;
+    border: 1.571px solid #364163;
+    padding: 6.284px 12.568px;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 41px;
+}
+.pricing-list-row{
+    width: 100%;
+    overflow: hidden;
+    margin: 0 0 12px 0 ;
+}
+.pricing-list-icon{
+    width: 32px;
+    height: 32px;
+    padding:0  8px;
+    border-radius: 50%;
+    background: #F2EBFF;
+    margin-right: 17px;
+    float: left;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+}
+.pricing-list-row i{
+    width: 16.757px;
+    height: 16.757px;
+    color: #364163;
+    text-align: center;
+    padding-left: 2px;
+}
+.tech-about-adds-on .col-lg-8 .col-lg-6 .pricing-list-text{
+    width: 280px;
+    float: left;
+    overflow: hidden;
+}
+.tech-about-adds-on .col-lg-8 .col-lg-6 .pricing-list-text p{
+    color: #000;
+	font-family: Poppins;
+	font-size: 16.757px;
+	font-weight: 400;
+}
+.pricing-list-text p span{
+    color: var(--neutral-400, #A0ABBB);
+}

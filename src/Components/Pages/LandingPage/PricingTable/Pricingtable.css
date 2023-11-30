@@ -1,0 +1,252 @@
+.tech-about-seo-packages {
+  padding: 103px 0 0 0;
+}
+.arrow-image {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  width: 45% !important;
+  /* background-color: red; */
+  margin: 0 auto;
+  margin-top: -6rem;
+}
+.tech-about-seo-packages .col-lg-5 {
+  width: 420px;
+  margin: auto;
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-5 {
+  width: 150px;
+  float: left;
+  color: #637381;
+  text-align: center;
+  font-family: Poppins;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 32.5px;
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-2 {
+  width: 75px;
+  float: left;
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-2 .switch {
+  display: inline-block;
+  height: 28px;
+  position: relative;
+  width: 50px;
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-2 .switch input {
+  display: none;
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-2 .slider {
+  background-color: #508a95;
+  bottom: 0;
+  cursor: pointer;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  transition: 0.4s;
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-2 .slider:before {
+  background-color: #fff;
+  bottom: 4px;
+  content: "";
+  height: 20px;
+  left: 4px;
+  position: absolute;
+  transition: 0.4s;
+  width: 20px;
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-2 input:checked + .slider {
+  background-color: #364163;
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-2 input:checked + .slider:before {
+  transform: translateX(22px);
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-2 .slider.round {
+  border-radius: 34px;
+}
+
+.tech-about-seo-packages .col-lg-5 .col-lg-2 .slider.round:before {
+  border-radius: 50%;
+}
+
+.mt-package-toggle {
+  margin-top: 53px;
+  margin-bottom: 110px;
+}
+
+.pricing-table-card {
+  padding: 41px 25px;
+  border-radius: 20px;
+  background: var(--shades-white, #fff);
+  box-shadow: 0px 4.18919px 55.14px 0px rgba(0, 0, 0, 0.05);
+  max-width: 399.33px;
+  transition: background 0.5s ease, color 0.5s ease;
+
+  /* Corrected transition property */
+}
+
+.tech-about-seo-packages .pricing-table-card h3 {
+  color: var(--neutral-800, #191d23);
+  font-family: Poppins;
+  font-size: 23.041px;
+  font-weight: 700;
+  margin-bottom: 0 0 11px 0;
+}
+
+.tech-about-seo-packages .pricing-table-card p {
+  color: var(--neutral-500, #64748b);
+  font-family: Poppins;
+  font-size: 16.757px;
+  font-weight: 400;
+  margin-bottom: 0 0 20px 0;
+  text-align: left;
+}
+
+.tech-about-seo-packages .pricing-table-card h1 {
+  color: var(--neutral-800, #191d23);
+  font-family: Poppins;
+  font-size: 58.649px;
+  text-align: left;
+  font-weight: 600;
+  margin-bottom: 25px;
+}
+
+.tech-about-seo-packages .pricing-table-card h1 span {
+  color: var(--neutral-600, #4b5768);
+  font-family: Poppins;
+  font-size: 16.757px;
+  font-weight: 600;
+}
+
+.tech-about-seo-packages .pricing-table-card button {
+  height: 56.08px;
+  color: #364163;
+  text-align: center;
+  border-radius: 46.081px;
+  background: #ffffff;
+  font-family: Poppins;
+  font-size: 20px;
+  width: 100%;
+  font-weight: 800;
+  border: 1.571px solid #364163;
+  padding: 6.284px 12.568px;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 41px;
+  cursor: pointer;
+}
+
+.pricing-list-row {
+  width: 100%;
+  overflow: hidden;
+  margin: 0 0 12px 0;
+  display: flex;
+}
+
+.pricing-list-icon {
+  width: 32px;
+  height: 32px;
+  padding: 0 8px;
+  border-radius: 50%;
+  background: #f2ebff;
+  margin-right: 17px;
+  float: left;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+}
+
+.pricing-list-row svg {
+  width: 16.757px;
+  height: 16.757px;
+  color: #364163;
+  text-align: center;
+  padding-left: 2px;
+}
+
+.pricing-list-text {
+  width: 300px;
+  float: left;
+  overflow: hidden;
+}
+
+.pricing-list-text p {
+  color: var(--neutral-800, #191d23);
+  font-family: Poppins;
+  font-size: 16.757px;
+  font-weight: 400;
+  text-align: left;
+  margin: 0;
+  padding-top: 2px;
+}
+
+.pricing-list-text p span {
+  color: var(--neutral-400, #a0abbb);
+}
+
+.pricing-table-card:hover {
+  background: #364163;
+  color: #ffffff !important;
+  cursor: pointer;
+}
+.red {
+  color: #888a8e !important;
+  font-weight: 400 !important;
+}
+.black{
+  font-weight: 500 !important;
+
+}
+.bg-green {
+  background: #f2ebff !important;
+}
+.bg-light-greeen {
+  background-color: #f7f8f9 !important;
+}
+.tech-about-seo-packages .pricing-table-card:hover .pricing-list-text p,
+.tech-about-seo-packages .pricing-table-card:hover h1,
+.tech-about-seo-packages .pricing-table-card:hover h1 span,
+.tech-about-seo-packages .pricing-table-card:hover p,
+.tech-about-seo-packages .pricing-table-card:hover h3 {
+  color: #ffffff !important;
+}
+
+.tech-about-seo-packages .pricing-table-card:hover .pricing-list-text p span {
+  color: #ffffff !important;
+  opacity: 0.7;
+}
+
+@media screen and (max-width: 481px) {
+  .tech-about-seo-services h1,
+  .tech-about-work-with-us h1,
+  .tech-about-seo-packages h1,
+  .tech-about-adds-on h1 {
+    font-size: 30px;
+  }
+
+  .tech-about-seo-services p,
+  .tech-about-work-with-us p,
+  .tech-about-seo-packages p {
+    font-size: 16px;
+  }
+
+  .pricing-table-card {
+    padding: 25px 15px;
+    margin-bottom: 25px;
+  }
+
+  .mt-package-toggle {
+    margin: 53px 0;
+  }
+}

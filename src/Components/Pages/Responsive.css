@@ -1,0 +1,637 @@
+@media screen and (max-width: 540px) {
+  .pricing-bannar-content button {
+    margin-right: 0px;
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .nav-item a {
+    color: whitesmoke !important;
+  }
+
+  .circle-box {
+    width: 27px !important;
+    height: 26px !important;
+  }
+
+  nav .btn-outline-success {
+    border-radius: 5px !important;
+    height: 40px !important;
+    font-size: 12px !important;
+    align-items: center;
+    gap: 5px;
+    line-height: 16px !important;
+    padding-left: 8px !important;
+    width: auto !important;
+    background: #d9d9d9 !important;
+    color: #364163 !important;
+    text-transform: uppercase;
+    padding: 8px !important;
+  }
+
+  .Option-list {
+    border-radius: 5px;
+    width: 100% !important;
+    font-size: 12px;
+    margin-top: 0 !important;
+    height: 40px;
+    background-color: #d9d9d9 !important;
+    font-weight: 500 !important;
+  }
+
+  .tech-nav-top-bar {
+    height: 85px;
+    padding-top: 15px;
+  }
+
+  .pricing-bannar {
+    padding: 38px 0 !important;
+  }
+
+  .pricing-bannar-content h1 {
+    font-size: 42px !important;
+    line-height: normal !important;
+    margin: 25px 0px;
+  }
+
+  .pricing-bannar-img img {
+    width: 100% !important;
+    height: 370px !important;
+  }
+
+  .tech-about-seo-packages {
+    padding: 30px 0px !important;
+  }
+
+  .tech-about-seo-services h1, .tech-about-work-with-us h1, .tech-about-seo-packages h1, .tech-about-adds-on h1 {
+    font-size: 35px !important;
+  }
+
+  .footer-middle-br {
+    padding: 35px 0px !important;
+  }
+
+  .img-under-foot img {
+    width: auto;
+    height: 45px;
+  }
+
+  .img-under-foot img:last-child {
+    width: 56% !important;
+    height: auto;
+  }
+
+  .tech-footer .col-lg-12 p {
+    line-height: 20.217px;
+    padding-bottom: 6px;
+    width: 100%;
+  }
+
+  .text-1 {
+    width: 100% !important;
+  }
+
+  .tech-footer {
+    padding: 25px 0 !important;
+  }
+
+  .tech-footer .container .row .col-lg-6 .col-lg-4 h2 {
+    margin-bottom: 15px;
+  }
+
+  .tech-footer .container .row p {
+    font-size: 15px !important;
+    margin-bottom: 25px !important;
+  }
+
+  /* -- */
+  .col-12.col-md-6.col-lg-6.down-space {
+    margin-top: 0px !important;
+  }
+
+  .testimonial-logo img {
+    width: 40%;
+  }
+
+  .contact-form-heading h1 {
+    font-size: 38px !important;
+    line-height: 60.378px !important;
+  }
+
+  .tech-contact-about-text p {
+    font-size: 11px !important;
+    margin: 0;
+    opacity: 0.6;
+  }
+
+  .contact textarea {
+    height: 150.882px !important;
+  }
+
+  .contact input {
+    height: 40.02px !important;
+  }
+
+  .tech-contact-about-icon {
+    width: 37.941px !important;
+    height: 37.941px !important;
+  }
+
+  .testimonial-client-info img {
+    width: 46.469px !important;
+    height: 46.469px !important;
+    border-radius: 50%;
+  }
+
+  .testimonial-client-info p {
+    font-size: 14.413px !important;
+  }
+
+  .testimonial-client-info h4 {
+    font-size: 16.413px !important;
+    line-height: 15.459px !important;
+  }
+
+  .testimonial-cards {
+    padding: 40px 15px 35px 23px !important;
+    margin-bottom: 30px !important;
+  }
+
+  .testimonial {
+    padding: 50px 0 !important;
+  }
+
+  .testimonial-title {
+    text-align: center;
+  }
+
+  .testimonial-title h2 {
+    width: 100% !important;
+  }
+
+  .services {
+    padding: 50px 0 !important;
+  }
+
+  .services-cards {
+    padding: 30px 20px !important;
+    margin-bottom: 40px !important;
+  }
+
+  img.position-absolute.cent-img.translate-middle {
+    left: 22% !important;
+    top: 20% !important;
+  }
+
+  .cards-content {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .tech-banner {
+    padding: 50px 0;
+  }
+
+  .banner-testimonial-card {
+    height: 100% !important;
+    padding: 10px 20px !important;
+    margin: 30px 0 !important;
+  }
+
+  .tech-banner {
+    padding: 50px 0 !important;
+  }
+
+  .tech-banner-content h1 {
+    width: 100% !important;
+    text-align: center;
+    font-size: 38px !important;
+    line-height: 60.36px !important;
+  }
+
+  .tech-banner-content h1 span {
+    font-size: 38px !important;
+    line-height: 60.36px !important;
+  }
+
+  .tech-banner-content p {
+    width: 100% !important;
+    margin: 25px 0 !important;
+    text-align: justify;
+    padding: 0 10px !important;
+  }
+
+  #tech-banner-bottom-text {
+    font-size: 50.677px;
+    text-align: center;
+    line-height: 60.575px;
+  }
+
+  .conatct-sub-section {
+    padding: 25px 20px !important;
+  }
+
+  .contact {
+    padding: 50px 0 !important;
+  }
+
+  .contact-submint {
+    width: auto !important;
+    outline: none !important;
+    height: 40.02px !important;
+    padding: 0 15px !important;
+  }
+
+  .land-content {
+    width: auto !important;
+    text-align: center;
+    padding: 0 20px;
+  }
+
+  .tech-about-banner .col-lg-5 {
+    padding-left: 0 !important;
+  }
+
+  .tech-about-banner p {
+    width: auto !important;
+  }
+
+  .card-progres {
+    margin: auto !important;
+    margin-top: 4rem !important;
+  }
+
+  .tech-about-banner {
+    padding: 35px 0 !important;
+  }
+
+  .tech-about-seo-services .col-lg-4 .card h5 {
+    margin-top: 10px !important;
+  }
+
+  .tech-about-seo-services .col-lg-4 .card .card-body {
+    padding: 0px 20px 32px !important;
+  }
+
+  .tech-about-seo-services .col-lg-4 .card h5 {
+    font-size: 20.8px !important;
+    line-height: 20.72px !important;
+  }
+
+  .tech-about-seo-services .col-lg-4 .card p {
+    margin-top: 15px !important;
+    font-size: 17.84px !important;
+  }
+
+  .tech-about-seo-services .col-lg-4 .card {
+    margin-top: 101px !important;
+    height: auto !important;
+  }
+
+  .tech-about-seo .about-seo-bg {
+    width: 100% !important;
+    height: auto !important;
+  }
+
+  .tech-about-seo .about-seo-bg img {
+    width: 304px !important;
+    padding-right: 28px !important;
+    height: auto !important;
+  }
+
+  .gap-15 {
+    gap: 0;
+    justify-content: space-evenly;
+  }
+
+  .footer-newsletter-field-block {
+    width: 100% !important;
+  }
+
+  .left-content {
+    padding: 36px 28px !important;
+  }
+
+  .left-content h1 {
+    font-size: 28px !important;
+    line-height: 53.711px !important;
+  }
+
+  .right-content {
+    padding: 25px !important;
+    margin: 30px !important;
+    height: auto !important;
+    width: auto !important;
+  }
+
+  .tech-about-seo-services h1, .tech-about-work-with-us h1, .tech-about-seo-packages h1, .tech-about-adds-on h1 {
+    font-size: 30px !important;
+  }
+
+  .arrow-image {
+    display: none !important;
+  }
+
+  .nth-4 img {
+    width: 70% !important;
+  }
+
+  .up-toSpace {
+    margin-bottom: 30px;
+  }
+
+  .tech-about-seo-packages {
+    margin-bottom: 30px !important;
+  }
+
+  .tech-about-seo-packages {
+    padding: 30px !important;
+  }
+
+  .tech-about-seo-packages .pricing-table-card p {
+    font-size: 14px !important;
+    margin-bottom: 0 0 10px 0 !important;
+  }
+
+  .tech-about-banner h1 {
+    font-size: 39px !important;
+    line-height: 45.711px !important;
+    margin-bottom: 40px;
+  }
+
+  .tech-about-seo .col-lg-5 div {
+    margin-left: 0 !important;
+    padding: 25px;
+    text-align: center;
+  }
+
+  .tech-about-seo .col-lg-5 h1 {
+    font-size: 30px !important;
+    line-height: 55.711px !important;
+  }
+
+  .tech-about-seo .col-lg-5 p {
+    color: #000;
+    width: auto !important;
+    margin-top: 24px;
+  }
+
+  section.tech-about-seo-services {
+    margin: 30px 0 !important;
+  }
+
+  .tech-about-seo-packages .col-lg-5 .col-lg-5 {
+    width: auto !important;
+    font-size: 16px !important;
+  }
+
+  .img-under-foot {
+    gap: 10.5px;
+    justify-content: space-evenly;
+  }
+}
+
+@media screen and (min-width: 481px) and (max-width: 967px) {
+  .tech-nav-top-bar {
+    height: 140px !important;
+    padding: 43px 23px !important;
+  }
+
+  .tech-banner {
+    padding: 45px 0 !important;
+  }
+
+  .tech-about-banner {
+    padding: 40px 0 !important;
+  }
+
+  .conatct-sub-section {
+    padding: 30px !important;
+  }
+
+  .tech-contact-about-icon {
+    width: 39.941px !important;
+    height: 39.941px !important;
+  }
+
+  .nav-item a {
+    color: whitesmoke !important;
+  }
+
+  .nav-item {
+    border-bottom: 1px solid grey;
+    padding: 10px 8px;
+  }
+
+  nav .btn-outline-success {
+    width: auto !important;
+    background: #d9d9d9 !important;
+    color: #364163 !important;
+  }
+
+  .Option-list {
+    padding: 0 0.5rem 0 0.5rem;
+    border-radius: 26px !important;
+    font-weight: 600 !important;
+  }
+
+  div#navbarScroll {
+    background: #364163;
+    margin-top: 15px;
+    padding: 20px 30px;
+    border-radius: 14px;
+    color: white;
+  }
+
+  .contact-submint {
+    width: auto !important;
+    height: 50.02px !important;
+    padding: 0 15px !important;
+  }
+
+  .services-cards {
+    height: 90% !important;
+  }
+
+  .services {
+    padding: 67px 0 !important;
+  }
+
+  .banner-testimonial-card {
+    height: auto !important;
+  }
+
+  .nth-4 img {
+    width: 70% !important;
+  }
+
+  .testimonial-logo img {
+    width: 55%;
+  }
+
+  .tech-banner-content h1 {
+    font-family: 'Nelphim';
+    width: 100% !important;
+  }
+
+  .cards-content {
+    text-align: center;
+  }
+
+  .tech-banner-content h1 {
+    font-family: 'Nelphim';
+    width: auto !important;
+    font-size: 39px !important;
+    line-height: 60.36px !important;
+  }
+
+  .tech-banner-content h1 span:nth-child(1) {
+    font-size: 39px !important;
+    line-height: 60.36px !important;
+  }
+
+  .tech-banner-content p {
+    width: 100% !important;
+    margin: 25px 0 !important;
+    text-align: justify;
+    padding: 0 10px !important;
+  }
+
+  .banner-testimonial-card {
+    margin: 37px auto 45px !important;
+  }
+
+  .testimonial-title h2 {
+    width: auto !important;
+    font-size: 40.577px !important;
+    margin: 40px 0 !important;
+  }
+
+  .testimonial-cards {
+    padding: 40px 25px !important;
+  }
+
+  .testimonial-client-info img {
+    width: 55.469px !important;
+    height: 55.469px !important;
+    border-radius: 50%;
+  }
+
+  .services-cards {
+    margin: 10px auto 33px !important;
+  }
+
+  .col-12.col-md-6.col-lg-6.down-space {
+    margin-top: 0 !important;
+  }
+
+  img.position-absolute.cent-img.translate-middle {
+    left: 148px !important;
+    top: 23% !important;
+  }
+
+  .tech-about-banner .col-lg-7 img {
+    width: 550px !important;
+    height: auto !important;
+    margin: 33px 0 !important;
+    float: inline-end !important;
+  }
+
+  .footer-newsletter-field-block {
+    width: 100% !important;
+  }
+
+  .tech-about-seo-services .col-lg-4 .card {
+    margin: 97px auto 0px !important;
+  }
+
+  .tech-about-seo .about-seo-bg {
+
+    width: auto !important;
+    height: auto !important;
+    margin-bottom: 25px;
+  }
+
+  .tech-about-seo .about-seo-bg img {
+    width: 100% !important;
+    height: 285px !important;
+  }
+
+  .right-content {
+    padding: 40px !important;
+    margin: 42px !important;
+    height: auto !important;
+    width: auto !important;
+  }
+
+  .card-progres {
+    margin: auto !important;
+  }
+
+  .left-content {
+    padding: 50px !important;
+  }
+
+  .left-content h1 {
+    font-size: 38px !important;
+  }
+
+  .tech-about-banner .col-lg-5 {
+    padding: 0 35px !important;
+  }
+
+  .land-content {
+    width: auto !important;
+  }
+
+  .tech-about-banner p {
+    width: auto !important;
+  }
+
+  .tech-about-seo-packages {
+    padding: 50px 0 !important;
+  }
+
+  .footer-middle-br {
+    padding: 25px 0 !important;
+  }
+
+  .text-1 {
+    width: 100% !important;
+  }
+
+  .tech-footer {
+    padding: 40px 0 !important;
+  }
+
+  .contact {
+    padding: 50px 0 !important;
+  }
+
+  section.tech-about-seo-services {
+    margin: 50px 0 !important;
+  }
+
+  .arrow-image {
+    display: none !important;
+  }
+  .img-under-foot {
+    gap: 10.5px;
+    justify-content: space-evenly;
+  }
+  /* .md-size {
+    height: 100px !important;
+  } */
+}
+
+@media screen and (min-width: 1405px) {
+  .md-size {
+    height: 86px !important;
+  }
+}
+
+@media screen and (min-width: 1555px) {
+  .md-size {
+    height: 95px !important;
+  }
+}

@@ -1,0 +1,96 @@
+.services {
+    padding: 0 0 200px;
+}
+
+.services-cards {
+    border-radius: 11.387px;
+    background: #FFF;
+    box-shadow: 0px 4.55474px 38.71532px 0px rgba(0, 0, 0, 0.05);
+    max-width: 393.985px;
+    height: 352.993px;
+    padding: 41px 25px;
+    margin-bottom: 33px;
+}
+
+.cards-content button {
+    width: 223.182px;
+    height: 54.657px;
+    border-radius: 56.934px;
+    background: #364163;
+    color: #FFF;
+    border: none;
+    font-size: 24.81px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 33.832px;
+    font-family: 'Public Sans', sans-serif;
+}
+
+.cards-content h2 {
+    color: #364163;
+    font-family: Nelphim;
+    font-size: 47.577px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 62.681px;
+    letter-spacing: 1.903px;
+    padding: 31px 0 19px;
+    text-transform: capitalize;
+}
+
+.cards-content p {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32.794px;
+    opacity: 0.5;
+    margin: 0;
+}
+
+.services-cards img {
+    width: 102.207px;
+    height: 87.679px;
+}
+
+.services-cards h3 {
+    color: #364163;
+    font-family: Montserrat;
+    font-size: 22.774px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 25.051px;
+    padding: 22px 0 24px;
+    margin: 0;
+}
+
+.services-cards p {
+    color: #656567;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32.794px;
+    margin: 0;
+}
+
+img.position-absolute.cent-img.translate-middle {
+    width: 34px;
+    height: 26px;
+    left: 87px;
+    top: 22%;
+}
+
+.services-cards {
+    transition: background-color 0.3s, color 0.3s;
+}
+
+.services-cards:hover {
+    background-color: #364163;
+    color: white;
+}
+
+.services-cards:hover .h-white {
+    color: white !important;
+}

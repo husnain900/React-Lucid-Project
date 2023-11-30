@@ -1,0 +1,108 @@
+section.tech-about-seo-services {
+	margin: 103px 0;
+}
+
+.tech-about-seo-services h5, .tech-about-work-with-us h5, .tech-about-seo-packages h5 {
+	color: #364163;
+	text-align: center;
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 28px;
+	margin: 0px;
+}
+
+.tech-about-seo-services h1, .tech-about-work-with-us h1, .tech-about-seo-packages h1, .tech-about-adds-on h1 {
+	color: #000;
+	font-family: Poppins;
+	font-size: 45px;
+	font-weight: 700;
+	line-height: 76.711px;
+	letter-spacing: -0.45px;
+	text-align: center;
+	margin: 0;
+}
+
+.tech-about-seo-services h1 span, .tech-about-work-with-us h1 span, .tech-about-seo-packages h1 span, .tech-about-adds-on h1 span {
+	color: #364163;
+}
+
+.tech-about-seo-services p, .tech-about-work-with-us p, .tech-about-seo-packages p {
+	color: #637381;
+	text-align: center;
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 400;
+	line-height: 32.5px;
+}
+
+.tech-about-seo-services .col-lg-12 {
+	margin-bottom: 82px;
+}
+
+.about-seo-service-card-img {
+	width: 130px;
+	margin: auto;
+	margin-top: -80px;
+}
+
+.about-seo-service-card-img img {
+	width: 100%;
+	height: 130px;
+}
+
+.tech-about-seo-services .col-lg-4 .card {
+	border-radius: 20px !important;
+	background: #FFF;
+	box-shadow: 0px 0px 26px 0px rgba(0, 0, 0, 0.07);
+	border: none !important;
+	height: 403px;
+	max-width: 398px;
+	margin-top: 132px;
+}
+
+.tech-about-seo-services .col-lg-4 .card .card-body {
+	padding: 0 25px 0 34px;
+}
+
+.tech-about-seo-services .col-lg-4 .card h5 {
+	color: #364163;
+	font-family: Poppins;
+	font-size: 24.8px;
+	text-align: left;
+	font-weight: 600;
+	line-height: 34.72px;
+	margin-top: 26px;
+}
+
+.tech-about-seo-services .col-lg-4 .card p {
+	color: #000;
+	text-align: left;
+	margin-top: 20px;
+	font-family: Lato;
+	font-size: 19.84px;
+	font-weight: 500;
+	line-height: 29.76px;
+}
+
+.tech-about-seo-services .mt-seo {
+	margin-top: 140px;
+}
+
+@media screen and (min-width: 991px) and (max-width: 1370px) {
+	.tech-about-seo .about-seo-bg {
+		width: auto !important;
+	}
+
+	.tech-about-seo .col-lg-5 div {
+		margin-left: 0 !important;
+	}
+
+	.tech-about-seo .about-seo-bg img {
+		width: auto !important;
+	}
+
+	.tech-about-seo-services .col-lg-4 .card {
+		height: 425px !important;
+	}
+}

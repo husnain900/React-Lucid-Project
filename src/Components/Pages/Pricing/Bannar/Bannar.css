@@ -1,0 +1,88 @@
+.pricing-bannar {
+  padding: 38px 0 120px;
+}
+
+.pricing-bannar-img img {
+  width: 700px;
+  height: auto;
+}
+
+.pricing-bannar-content p {
+  color: #000;
+  text-align: justify;
+  font-family: Montserrat;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.pricing-bannar-content h1 {
+  color: #364163;
+  font-family: Nelphim;
+  font-size: 84.803px;
+  font-weight: 400;
+  line-height: 111.724px;
+  letter-spacing: 3.392px;
+}
+
+.pricing-bannar-content span {
+  color: #508a95;
+}
+
+.pricing-bannar-content button {
+  width: 255.317px;
+  height: 70.863px;
+  border-radius: 77.106px;
+  background: #364163;
+  color: #fff;
+  font-family: Montserrat;
+  font-size: 24.739px;
+  font-weight: 600;
+  line-height: normal;
+  cursor: pointer;
+  background: transparent;
+  color: #364163;
+  border: 3.126px solid #364163;
+  margin-right: 20px;
+  margin-top: 45px;
+}
+
+.pricing-bannar-content button:focus {
+  background: #364163;
+  color: #fff;
+  font-family: Montserrat;
+  border: none;
+}
+
+@media only screen and (max-width: 771px) {
+  #margin {
+    margin-top: -3rem !important;
+  }
+}
+
+@media only screen and (min-width: 991px) and (max-width: 1199px) {
+  .pricing-image {
+    height: 500px !important;
+    width: 500px !important;
+  }
+
+  .heading {
+    font-size: 3rem !important;
+    line-height: 4rem !important;
+  }
+}
+
+@media only screen and (max-width: 771px) {
+  .pricing-image {
+    height: 500px !important;
+    width: 500px !important;
+    margin-top: -5rem !important;
+  }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1370px) {
+  .pricing-bannar-img img {
+    width: 590px !important;
+  }
+}
